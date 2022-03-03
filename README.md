@@ -1,3 +1,3 @@
-# mrad.github.io
+# MihaiRad.github.io
 
 add info about me
